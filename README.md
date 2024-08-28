@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Theo.
+
+- 🔭 I’m currently working on simple Java game
+- 🌱 I’m currently learning Java
+- 💬 Ask me about NodeJS, Python or Lua problems!
+
 <!--
 **Sibyrd/Sibyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
