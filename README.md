@@ -2,7 +2,7 @@
 
 I'm Theo.
 
-- 🔭 I’m currently working on simple Java game
+- 🔭 I’m currently working on A-Level Computer Science
 - 🌱 I’m currently learning Java
 - 💬 Ask me about NodeJS, Python or Lua problems!
 
